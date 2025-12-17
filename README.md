@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammed Misbah T U
 
-<!--
-**misbahtu2/misbahtu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring MERN Stack Developer  
+💻 Learning → Building → Sharing  
+📍 Kerala, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about full-stack web development
+- Strong foundation in **Java, C, and problem-solving**
+- Currently learning **MERN Stack**
+- Focused on building real-world projects
+- Open to **internships & fresher roles**
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Programming:** Java (Swing), C  
+**Tools:** Git, GitHub, VS Code
+
+---
+
+## 📂 Projects
+### 🔹 Java Calculator (Swing)
+- Desktop calculator using Java Swing
+- Covers OOP concepts and event handling  
+🔗 [View Repository](#)
+
+### 🔹 Portfolio Website
+- Personal portfolio showcasing skills & projects  
+🔗 [Live Demo](#) | [Repo](#)
+
+---
+
+## 📜 Certifications
+- Brototype – 100K Coding Challenge
+- Learn.brototype.com (Course Completion)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/your-link
+- X (Twitter): https://x.com/your-handle
+- Portfolio: https://your-portfolio-link
+
+---
+
+⭐ *Consistency beats talent. I build every day.*
