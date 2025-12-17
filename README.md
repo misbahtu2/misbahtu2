@@ -43,8 +43,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-link
-- X (Twitter): https://x.com/your-handle
+- LinkedIn: https://www.linkedin.com/in/muhammed-misbah-tu/
+- X (Twitter): https://x.com/MisbahTu
 - Portfolio: https://your-portfolio-link
 
 ---
