@@ -28,7 +28,7 @@
 ### 🔹 Java Calculator (Swing)
 - Desktop calculator using Java Swing
 - Covers OOP concepts and event handling  
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/misbahtu2/java-swing-calculator)
 
 ### 🔹 Portfolio Website
 - Personal portfolio showcasing skills & projects  
