@@ -39,6 +39,7 @@
 ## 📜 Certifications
 - Brototype – 100K Coding Challenge
 - Learn.brototype.com (Course Completion)
+- Brototype (Date with Git)
 
 ---
 
